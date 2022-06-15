@@ -5,7 +5,7 @@
 
 import java . util . *;
 
-public class Main
+public class Day_7
 {
     public static void negative_elements(int [] arr, int n){
         int j =0,temp =0;
