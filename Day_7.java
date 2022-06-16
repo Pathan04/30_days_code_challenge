@@ -1,5 +1,5 @@
 /*   30_Days_Code_Challenge
-     Java Program to Move all negative numbers to beginning and positive to end
+     Java Program to Move all negative numbers to beginning and positive to end of the matrix
 
 */ 
 
