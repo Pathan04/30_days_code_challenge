@@ -1,6 +1,6 @@
 /*
 30_Days_Code_Challenge
-Implementing Rock Paper Scissor Game Using Java. 
+Implementing Rock Paper Scissor Game Using Java
 
 */
 
