@@ -1,6 +1,6 @@
 /* 30_Days_code_Challenge
    Day 20
-   Java Program For Binary Search for 1D Array
+   Java Program For Binary Search Using 1D Array
 
 
 import java.util.*;
@@ -34,7 +34,7 @@ public class Main
 
 */
 
-/* Java Program For Binary Search for 2d Array
+/* Java Program For Binary Search Using 2d Array
 import java.io.*;
 import java.util.*;
 
