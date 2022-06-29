@@ -1,6 +1,6 @@
 /* 30_Days_Code_Challenge
    Day_21
-   Java Program For Finding Substring Polindrome
+   Java Program For Finding Substring of Polindrome
 */
 
 import java.io.*;
