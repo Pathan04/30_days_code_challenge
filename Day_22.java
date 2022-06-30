@@ -1,6 +1,6 @@
 /* 30_Days_Code_Challenge
    Day_22
-   Java Program For Compress a String
+   Java Program to Compress a String
 */
 
 
